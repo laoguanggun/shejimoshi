@@ -4,3 +4,6 @@
 
 # IntelliJ project files
 .idea
+src/main/resources/
+src/test/
+target/
